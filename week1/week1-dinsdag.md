@@ -30,3 +30,8 @@
 > - **"Tegenstrijdig"** :tegenstrijdig:
 
 ---
+<<<<<<< HEAD
+=======
+
+*Kopieer dit sjabloon voor je volgende dagen en pas de antwoorden telkens aan!*
+>>>>>>> e0877e33e05663b443f90ae0d0c7a74bb663c3ba
